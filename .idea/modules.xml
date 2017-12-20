@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TestForCustomView.iml" filepath="$PROJECT_DIR$/TestForCustomView.iml" />
-      <module fileurl="file://D:\MyCode\TestForCustomView\TestForCustomView.iml" filepath="D:\MyCode\TestForCustomView\TestForCustomView.iml" />
+      <module fileurl="file://D:/MyCode/TestForCustomView/TestForCustomView.iml" filepath="D:/MyCode/TestForCustomView/TestForCustomView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:\MyCode\TestForCustomView\app\app.iml" filepath="D:\MyCode\TestForCustomView\app\app.iml" />
+      <module fileurl="file://D:/MyCode/TestForCustomView/app/app.iml" filepath="D:/MyCode/TestForCustomView/app/app.iml" />
     </modules>
   </component>
 </project>
